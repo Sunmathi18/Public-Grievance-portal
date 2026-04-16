@@ -11,3 +11,5 @@ From ideation to deployment, every stage was powered by different AI tools:
 Through this journey, I didn’t just build a project — I learned how to think with AI, refine outputs, and turn concepts into reality.
 
 👉 This experience helped me explore every layer of AI usage — from creativity to execution.
+
+LINK FOR THE PORTAL------>https://admin-track-hub.lovable.app
